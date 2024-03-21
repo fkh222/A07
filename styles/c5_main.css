@@ -53,14 +53,13 @@ main {
 }
 main h1 {
 	font-size: 150%;
-	padding: .3em 0;
+	padding: .6em 0;
 	border-top: 3px solid #931420;
 	border-bottom: 3px solid #931420;
 	border: 3px double #931420;
 	border-radius: 10px;
 	box-shadow: 3px 3px 2px 3px rgb(40, 7, 7);
 	background-color: white;
-
 }
 
 main h2 {
